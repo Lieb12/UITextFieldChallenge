@@ -1,2 +1,2 @@
 # UITextFieldChallenge
-1,2, and 3
+stretch goals 1-3
